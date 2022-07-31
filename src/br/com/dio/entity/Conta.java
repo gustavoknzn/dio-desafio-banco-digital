@@ -1,5 +1,6 @@
-package br.com.dio;
+package br.com.dio.entity;
 
+import br.com.dio.IConta;
 import lombok.Getter;
 
 public abstract class Conta implements IConta {

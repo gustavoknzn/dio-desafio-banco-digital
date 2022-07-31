@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.entity;
 
 import lombok.*;
 

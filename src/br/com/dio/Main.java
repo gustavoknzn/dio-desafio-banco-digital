@@ -1,5 +1,7 @@
 package br.com.dio;
 
+import br.com.dio.entity.*;
+
 import java.util.Arrays;
 
 public class Main {

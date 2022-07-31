@@ -1,5 +1,7 @@
 package br.com.dio;
 
+import br.com.dio.entity.Conta;
+
 public interface IConta {
 
     void sacar(double valor);
